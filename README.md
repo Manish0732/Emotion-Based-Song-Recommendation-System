@@ -1,9 +1,10 @@
 # Emotion Based Song Recommendation System
+
 ## Overview
 
 This Django web application utilizes AWS Rekognition service to detect users' emotions through facial images captured via a webcam. Users can create accounts, select preferred artists, and receive personalized song recommendations based on their emotions and artist preferences. The song data is collected through the Spotify API using an ETL (Extract, Transform, Load) pipeline.
 
-![](https://github.com/asus1210/emotion_based_songs/blob/main/a3b7d140-4d97-45fe-8138-19d5c5027cdf.gif)
+![](a3b7d140-4d97-45fe-8138-19d5c5027cdf.gif)
 
 ## Table of Contents
 
