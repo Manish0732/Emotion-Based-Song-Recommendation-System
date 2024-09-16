@@ -18,7 +18,7 @@ This Django web application utilizes AWS Rekognition service to detect users' em
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/asus1210/emotion_based_song.git
+   git clone https://github.com/Manish0732/Emotion-Based-Song-Recommendation-System.git
    cd emotion-based-song
    ```
 
@@ -106,3 +106,8 @@ Install these dependencies using the `requirements.txt` file.
 ```bash
 pip install -r requirements.txt
 ```
+
+### Authors
+
+- [Manish Joshi](https://github.com/manish0732)
+- [Malhar Yadav](https://github.com/asus1210)
